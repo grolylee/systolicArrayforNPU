@@ -1,0 +1,259 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/hieuld/Documents/system_datn_temp/rtl/dbbTest
+vdsp_mult
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1758705614
+!i10b 1
+!s100 oe17_`aD<^9K?N2fdh4`01
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ILXJ7dli^le_:SeDiZ?ZT:2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1758693676
+8dsp_mult.sv
+Fdsp_mult.sv
+!i122 91
+L0 39 44
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1758705613.000000
+!s107 tb_systolicArray8x8.sv|tb_systolicArray16x16.sv|systolicArray16x16.sv|systolicArray8x8.sv|topSystolicArray.sv|systolicArray.sv|pe.sv|dsp_mult.sv|
+Z7 !s90 dsp_mult.sv|pe.sv|systolicArray.sv|topSystolicArray.sv|systolicArray8x8.sv|systolicArray16x16.sv|tb_systolicArray16x16.sv|tb_systolicArray8x8.sv|
+!i113 1
+Z8 tCvgOpt 0
+vpe
+R1
+R2
+!i10b 1
+!s100 WW_[W5fK2J]bL@j]nc[BQ1
+R3
+I4NGJ[LzzQ3Lf];m<nlRiR2
+R4
+S1
+R0
+w1758694825
+8pe.sv
+Fpe.sv
+!i122 91
+L0 82 68
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 tb_systolicArray8x8.sv|tb_systolicArray16x16.sv|systolicArray16x16.sv|systolicArray8x8.sv|topSystolicArray.sv|systolicArray.sv|pe.sv|dsp_mult.sv|
+R7
+!i113 1
+R8
+vsystolicArray
+R1
+R2
+!i10b 1
+!s100 IIaGh<?R3aLHb_;mBClKK1
+R3
+IzZbMn>c7?E_TVczFo_@TU2
+R4
+S1
+R0
+w1758694805
+8systolicArray.sv
+FsystolicArray.sv
+!i122 91
+L0 71 41
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+nsystolic@array
+vsystolicArray16x16
+R1
+R2
+!i10b 1
+!s100 VHe55BIjEXMcjcM:z=Qh[0
+R3
+IFV[TV4zlAD^;c?f0TMSfQ2
+R4
+S1
+R0
+w1758704169
+8systolicArray16x16.sv
+FsystolicArray16x16.sv
+!i122 91
+L0 2 236
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+nsystolic@array16x16
+vsystolicArray4x4
+R1
+!s110 1758698427
+!i10b 1
+!s100 [E2LQmTC@1YW]B2e?NN_m1
+R3
+INVEUd:WVOLWk10H=Z4<500
+R4
+S1
+R0
+w1758694178
+8systolicArray4x4.sv
+FsystolicArray4x4.sv
+!i122 42
+L0 3 143
+R5
+r1
+!s85 0
+31
+!s108 1758698427.000000
+!s107 tb_systolicArray16x16.sv|systolicArray16x16.sv|systolicArray8x8.sv|tb_systolicArray8x8.sv|systolicArray4x4.sv|topSystolicArray.sv|systolicArray.sv|pe.sv|dsp_mult.sv|
+!s90 dsp_mult.sv|pe.sv|systolicArray.sv|topSystolicArray.sv|systolicArray4x4.sv|tb_systolicArray8x8.sv|systolicArray8x8.sv|systolicArray16x16.sv|tb_systolicArray16x16.sv|
+!i113 1
+R8
+nsystolic@array4x4
+vsystolicArray8x8
+R1
+R2
+!i10b 1
+!s100 838Z?aP8]LF?oAN4SoW]:0
+R3
+IPnPMF;]lMF8Ve1]bd1Kl^0
+R4
+S1
+R0
+w1758705613
+8systolicArray8x8.sv
+FsystolicArray8x8.sv
+!i122 91
+L0 142 134
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+nsystolic@array8x8
+vtb_systolicArray16x16
+R1
+R2
+!i10b 1
+!s100 40kRaMNGAQLGWcd83Ze?N1
+R3
+IKOMjTFV>@^oRcEURGgebg0
+R4
+S1
+R0
+w1758703626
+8tb_systolicArray16x16.sv
+Ftb_systolicArray16x16.sv
+!i122 91
+L0 229 127
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+ntb_systolic@array16x16
+vtb_systolicArray4x4
+R1
+!s110 1758696880
+!i10b 1
+!s100 RD@f2`KUcZ6PmSBYGEhfX0
+R3
+I]P=N^?gY2d^gL6W0NcQK;1
+R4
+S1
+R0
+w1758696879
+8tb_systolicArray4x4.sv
+Ftb_systolicArray4x4.sv
+!i122 22
+L0 3 93
+R5
+r1
+!s85 0
+31
+!s108 1758696880.000000
+!s107 tb_systolicArray4x4.sv|systolicArray4x4.sv|topSystolicArray.sv|systolicArray.sv|pe.sv|dsp_mult.sv|
+!s90 dsp_mult.sv|pe.sv|systolicArray.sv|topSystolicArray.sv|systolicArray4x4.sv|tb_systolicArray4x4.sv|
+!i113 1
+R8
+ntb_systolic@array4x4
+vtb_systolicArray8x8
+R1
+R2
+!i10b 1
+!s100 CbYPC8Ij6`1RY>h_HJN=01
+R3
+ITCbFBfP5:SX67z7Tl6k>d2
+R4
+S1
+R0
+w1758704724
+8tb_systolicArray8x8.sv
+Ftb_systolicArray8x8.sv
+!i122 91
+L0 108 125
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+ntb_systolic@array8x8
+vtopSystolicArray
+R1
+R2
+!i10b 1
+!s100 HK62S5TbV<<I9ZXmS8ifm0
+R3
+IRLNVMV67C=50Y7SB;ng0A0
+R4
+S1
+R0
+w1758694159
+8topSystolicArray.sv
+FtopSystolicArray.sv
+!i122 91
+L0 167 143
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+ntop@systolic@array
