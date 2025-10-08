@@ -1,0 +1,33 @@
+# vsim -c -do "run -all" tb_subtractorHS 
+# Start time: 09:37:33 on Sep 13,2025
+# Loading sv_std.std
+# Loading work.tb_subtractorHS
+# Loading work.subtractorHS
+# Loading work.maxFinder
+# run -all
+# 
+# === [@75000] maxFinder result valid ===
+#   -> maxValue (Q2.14) = 24576 = 1.500000
+#   i_data[0] = 24576 (1.500000) --> sub = 0
+#   i_data[1] = -4096 (-0.250000) --> sub = -28672
+#   i_data[2] = 12288 (0.750000) --> sub = -12288
+#   i_data[3] = -32768 (-2.000000) --> sub = 8192
+#   i_data[4] = -16384 (-1.000000) --> sub = 24576
+#   i_data[5] = 16384 (1.000000) --> sub = -8192
+#   i_data[6] = 0 (0.000000) --> sub = -24576
+#   i_data[7] = -8192 (-0.500000) --> sub = -32768
+# 
+# === [@85000] o_valid ===
+#   o_data[0] = 0 (Q4.12) = 0.000000
+#   o_data[1] = 58368 (Q4.12) = 14.250000
+#   o_data[2] = 62464 (Q4.12) = 15.250000
+#   o_data[3] = 2048 (Q4.12) = 0.500000
+#   o_data[4] = 6144 (Q4.12) = 1.500000
+#   o_data[5] = 63488 (Q4.12) = 15.500000
+#   o_data[6] = 59392 (Q4.12) = 14.500000
+#   o_data[7] = 57344 (Q4.12) = 14.000000
+# Not o_Valid
+# ** Note: $finish    : tb_subtractorHS.sv(96)
+#    Time: 105 ns  Iteration: 0  Instance: /tb_subtractorHS
+# End time: 09:37:33 on Sep 13,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

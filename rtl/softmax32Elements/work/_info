@@ -1,0 +1,435 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/hieuld/Documents/datn_SA/final/softmax32Elements
+vbugSoftmax32
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1758018080
+!i10b 1
+!s100 4eDi9zLfk2Yj^EjkL]X`81
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IFB:[fiJfQ;gmifAzP:d:A3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z5 d/home/hieuld/Documents/datn/rtl/softmax32Elements
+w1757825718
+8bugSoftmax32.sv
+FbugSoftmax32.sv
+!i122 211
+L0 1 348
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1758018080.000000
+!s107 expCalculatorVec.sv|tb_bugSoftmax.sv|bugSoftmax32.sv|multiplierDivisionUnsigned.sv|reciprocalNewtonCalcUnsigned.sv|sumFinder32.sv|expCalculator.sv|subtractorHS.sv|maxFinder.sv|
+Z8 !s90 maxFinder.sv|subtractorHS.sv|expCalculator.sv|sumFinder32.sv|reciprocalNewtonCalcUnsigned.sv|multiplierDivisionUnsigned.sv|bugSoftmax32.sv|tb_bugSoftmax.sv|expCalculatorVec.sv|
+!i113 1
+Z9 tCvgOpt 0
+nbug@softmax32
+vexpCalculator
+R1
+R2
+!i10b 1
+!s100 nRWUQb?WTLEK1SXh[a]Ph1
+R3
+IS11zDG1D1mWm2jNMl2^ng3
+R4
+S1
+R5
+w1757815673
+8expCalculator.sv
+FexpCalculator.sv
+!i122 211
+L0 1 134
+R6
+r1
+!s85 0
+31
+R7
+Z10 !s107 expCalculatorVec.sv|tb_bugSoftmax.sv|bugSoftmax32.sv|multiplierDivisionUnsigned.sv|reciprocalNewtonCalcUnsigned.sv|sumFinder32.sv|expCalculator.sv|subtractorHS.sv|maxFinder.sv|
+R8
+!i113 1
+R9
+nexp@calculator
+vexpCalculatorVec
+R1
+Z11 !s110 1758018081
+!i10b 1
+!s100 GeB9<FI=ZkZkc;l0Y18lP1
+R3
+Iib6RG[n`FHj_^37A:Pz9N2
+R4
+S1
+R5
+w1757773320
+8expCalculatorVec.sv
+FexpCalculatorVec.sv
+!i122 211
+L0 2 66
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+nexp@calculator@vec
+vmaxFinder
+R1
+R2
+!i10b 1
+!s100 <lLWci18OXdb_KKoWWndB3
+R3
+IgSb94ej]bjZbHf?aLI5^j0
+R4
+S1
+R5
+w1757842815
+8maxFinder.sv
+FmaxFinder.sv
+!i122 211
+L0 1 43
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+nmax@finder
+vmultiplierDivisionUnsigned
+R1
+R2
+!i10b 1
+!s100 zgk_X]jG4PXLF=01h:RcZ2
+R3
+IKn9W8dWGYc<A5`UK1=N6>2
+R4
+S1
+R5
+w1757817947
+8multiplierDivisionUnsigned.sv
+FmultiplierDivisionUnsigned.sv
+!i122 211
+L0 47 46
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+nmultiplier@division@unsigned
+vreciprocalNewtonCalcUnsigned
+R1
+R2
+!i10b 1
+!s100 Kmck5KH43Nh@XU^XNN=@?2
+R3
+I^Uz0NMQ9SMHJ>>aP_zhKU0
+R4
+S1
+R5
+w1757930994
+Z12 8reciprocalNewtonCalcUnsigned.sv
+Z13 FreciprocalNewtonCalcUnsigned.sv
+!i122 211
+Z14 L0 225 135
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+nreciprocal@newton@calc@unsigned
+vreciprocalNewtonCalcUnsigned_pipelined
+R1
+!s110 1757752059
+!i10b 1
+!s100 8MA3TezhQ=V;mlOXeL[XV0
+R3
+I`]E>hll2QJ3lSJ8Q08PX23
+R4
+S1
+R0
+w1757752057
+R12
+R13
+!i122 46
+R14
+R6
+r1
+!s85 0
+31
+!s108 1757752059.000000
+Z15 !s107 tb_reciprocalUnsigned32.sv|reciprocalNewtonCalcUnsigned.sv|
+Z16 !s90 reciprocalNewtonCalcUnsigned.sv|tb_reciprocalUnsigned32.sv|
+!i113 1
+R9
+nreciprocal@newton@calc@unsigned_pipelined
+vsoftmax32Elements
+R1
+Z17 !s110 1757731714
+!i10b 1
+!s100 kWW71o5]jXJ60^kEk:dVX3
+R3
+IWYVMC3k1J3]AE4liEcU<62
+R4
+S1
+R0
+w1757666802
+8softmax32Elements.sv
+Fsoftmax32Elements.sv
+!i122 37
+L0 287 99
+R6
+r1
+!s85 0
+31
+Z18 !s108 1757731714.000000
+Z19 !s107 tb_softmax32Elements.sv|softmax32Elements.sv|tb_bugSoftmax.sv|bugSoftmax32.sv|multiplierDivisionUnsigned.sv|reciprocalNewtonCalcUnsigned.sv|sumFinder32.sv|expCalculator.sv|subtractorHS.sv|maxFinder.sv|
+Z20 !s90 maxFinder.sv|subtractorHS.sv|expCalculator.sv|sumFinder32.sv|reciprocalNewtonCalcUnsigned.sv|multiplierDivisionUnsigned.sv|bugSoftmax32.sv|tb_bugSoftmax.sv|softmax32Elements.sv|tb_softmax32Elements.sv|
+!i113 1
+R9
+nsoftmax32@elements
+vsubtractorHS
+R1
+R2
+!i10b 1
+!s100 BUXM:;]VC8]me>ahPP]HM0
+R3
+IDYWK2jk?53BmRBLI>MRR72
+R4
+S1
+R5
+w1757756185
+8subtractorHS.sv
+FsubtractorHS.sv
+!i122 211
+L0 1 54
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+nsubtractor@h@s
+vsumFinder32
+R1
+R2
+!i10b 1
+!s100 dGdFT8cMVPXVB2i^]mBKB3
+R3
+I8bo@jn6RQ0CCRdT=F<8XZ3
+R4
+S1
+R5
+w1758017799
+8sumFinder32.sv
+FsumFinder32.sv
+!i122 211
+L0 52 91
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+nsum@finder32
+vtb_bugSoftmax
+R1
+R11
+!i10b 1
+!s100 261LN>z1GnUBig>jAOb<`2
+R3
+IozLPgbXHhne^mciiJ[:?S1
+R4
+S1
+R5
+w1758018079
+8tb_bugSoftmax.sv
+Ftb_bugSoftmax.sv
+!i122 211
+L0 214 101
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+ntb_bug@softmax
+vtb_exp
+R1
+!s110 1757924884
+!i10b 1
+!s100 27E^USzE>HB8UUY0>]k2c0
+R3
+ImXX^zHfSbAPJ:;<dzn_@Q0
+R4
+S1
+R0
+w1757924881
+Z21 8tb_exp.sv
+Z22 Ftb_exp.sv
+!i122 193
+Z23 L0 3 89
+R6
+r1
+!s85 0
+31
+!s108 1757924884.000000
+Z24 !s107 tb_exp.sv|expCalculator.sv|
+Z25 !s90 expCalculator.sv|tb_exp.sv|
+!i113 1
+R9
+vtb_expCalculator
+R1
+!s110 1757924292
+!i10b 1
+!s100 `HHBd3SHKo^fUP_Z7_Mmf2
+R3
+I>L^2_Q`njNh;aacXh8Tl_3
+R4
+S1
+R0
+w1757924288
+R21
+R22
+!i122 189
+R23
+R6
+r1
+!s85 0
+31
+!s108 1757924292.000000
+R24
+R25
+!i113 1
+R9
+ntb_exp@calculator
+vtb_expCalculatorVec
+R1
+!s110 1757809671
+!i10b 1
+!s100 WM_74f];nA>EgNG?MZ=AU0
+R3
+Ie>IcCf8JS[8mAiWh@7WhN1
+R4
+S1
+R0
+w1757808766
+8tb_expCalculatorVec.sv
+Ftb_expCalculatorVec.sv
+!i122 153
+L0 7 84
+R6
+r1
+!s85 0
+31
+!s108 1757809671.000000
+!s107 tb_expCalculatorVec.sv|expCalculatorVec.sv|
+!s90 expCalculatorVec.sv|tb_expCalculatorVec.sv|
+!i113 1
+R9
+ntb_exp@calculator@vec
+vtb_maxFinder
+R1
+!s110 1757731413
+!i10b 1
+!s100 8gmh`F_b5k5Nb:Oo?^1mT1
+R3
+I?hWjYCAj9DzUi@`ABnmNX3
+R4
+S1
+R0
+w1757731412
+8tb_maxFinder.sv
+Ftb_maxFinder.sv
+!i122 31
+L0 161 66
+R6
+r1
+!s85 0
+31
+!s108 1757731413.000000
+!s107 tb_maxFinder.sv|maxFinder.sv|
+!s90 maxFinder.sv|tb_maxFinder.sv|
+!i113 1
+R9
+ntb_max@finder
+vtb_reciprocalUnsigned32
+R1
+!s110 1757931004
+!i10b 1
+!s100 ;M7`Xze]mG^`g9^?dS=c81
+R3
+I`>;Z?SeMD[XPTGTVeKTAV0
+R4
+S1
+R0
+w1757931001
+8tb_reciprocalUnsigned32.sv
+Ftb_reciprocalUnsigned32.sv
+!i122 196
+L0 172 92
+R6
+r1
+!s85 0
+31
+!s108 1757931004.000000
+R15
+R16
+!i113 1
+R9
+ntb_reciprocal@unsigned32
+vtb_softmax32Elements
+R1
+R17
+!i10b 1
+!s100 Vik6;lmi@a15D:3M9Q3332
+R3
+I=AfLUAeagNiJSlBD7oH7G1
+R4
+S1
+R0
+w1757658715
+8tb_softmax32Elements.sv
+Ftb_softmax32Elements.sv
+!i122 37
+L0 88 122
+R6
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R9
+ntb_softmax32@elements

@@ -1,0 +1,180 @@
+# Current time Sat Sep 13 20:39:09 2025
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vsim
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = "linuxaloem"
+# Signature = fa4d3e95ccc4dcaa70644b276588aa2d
+# 0    0x083f1a2f: '<unknown (@0x83f1a2f)>'
+# 1    0x083f1d42: '<unknown (@0x83f1d42)>'
+# 2    0x083aba39: '<unknown (@0x83aba39)>'
+# 3    0xf68886e7: '<unknown (@0xf68886e7)>'
+# 4    0x08dcf9a5: '<unknown (@0x8dcf9a5)>'
+# 5    0x0827ffdf: '<unknown (@0x827ffdf)>'
+# 6    0x08280109: '<unknown (@0x8280109)>'
+# 7    0x08281271: '<unknown (@0x8281271)>'
+# 8    0x083aac0a: '<unknown (@0x83aac0a)>'
+# 9    0x083f1240: '<unknown (@0x83f1240)>'
+# 10   0x083f19fa: '<unknown (@0x83f19fa)>'
+# 11   0x083f3095: '<unknown (@0x83f3095)>'
+# 12   0x08402a4e: '<unknown (@0x8402a4e)>'
+# 13   0x08403138: '<unknown (@0x8403138)>'
+# 14   0x08408d40: '<unknown (@0x8408d40)>'
+# 15   0x083aba39: '<unknown (@0x83aba39)>'
+# 16   0xf68a0f47: 'bugSoftmax32.sv:115'
+# 17   0x08dcf9a5: '<unknown (@0x8dcf9a5)>'
+# 18   0x08131d92: '<unknown (@0x8131d92)>'
+# 19   0x082b8656: '<unknown (@0x82b8656)>'
+# 20   0x087d108a: '<unknown (@0x87d108a)>'
+# 21   0x087d648c: '<unknown (@0x87d648c)>'
+# 22   0x087d80a7: '<unknown (@0x87d80a7)>'
+# 23   0x08a9a3b9: '<unknown (@0x8a9a3b9)>'
+# 24   0x092365cb: '<unknown (@0x92365cb)>'
+# 25   0x09235bba: '<unknown (@0x9235bba)>'
+# 26   0x0923b143: '<unknown (@0x923b143)>'
+# 27   0x0923b25a: '<unknown (@0x923b25a)>'
+# 28   0x0923c901: '<unknown (@0x923c901)>'
+# 29   0x0923cc76: '<unknown (@0x923cc76)>'
+# 30   0x08d20173: '<unknown (@0x8d20173)>'
+# 31   0x092e4977: '<unknown (@0x92e4977)>'
+# 32   0x0933ec3c: '<unknown (@0x933ec3c)>'
+# 33   0x09341a98: '<unknown (@0x9341a98)>'
+# 34   0x092fde68: '<unknown (@0x92fde68)>'
+# 35   0x092fe175: '<unknown (@0x92fe175)>'
+# 36   0x090ec6c0: '<unknown (@0x90ec6c0)>'
+# 37   0x0879fb79: '<unknown (@0x879fb79)>'
+# 38   0x0863aebb: '<unknown (@0x863aebb)>'
+# End of Stack Trace
+
+
+# Current time Sat Sep 13 20:39:09 2025
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vsim
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = "linuxaloem"
+# Signature = fa4d3e95ccc4dcaa70644b276588aa2d
+# 0    0x083f1a9a: '<unknown (@0x83f1a9a)>'
+# 1    0x083f3095: '<unknown (@0x83f3095)>'
+# 2    0x08402a4e: '<unknown (@0x8402a4e)>'
+# 3    0x08403138: '<unknown (@0x8403138)>'
+# 4    0x08408d40: '<unknown (@0x8408d40)>'
+# 5    0x083aba39: '<unknown (@0x83aba39)>'
+# 6    0xf68a0f47: 'bugSoftmax32.sv:115'
+# 7    0x08dcf9a5: '<unknown (@0x8dcf9a5)>'
+# 8    0x08131d92: '<unknown (@0x8131d92)>'
+# 9    0x082b8656: '<unknown (@0x82b8656)>'
+# 10   0x087d108a: '<unknown (@0x87d108a)>'
+# 11   0x087d648c: '<unknown (@0x87d648c)>'
+# 12   0x087d80a7: '<unknown (@0x87d80a7)>'
+# 13   0x08a9a3b9: '<unknown (@0x8a9a3b9)>'
+# 14   0x092365cb: '<unknown (@0x92365cb)>'
+# 15   0x09235bba: '<unknown (@0x9235bba)>'
+# 16   0x0923b143: '<unknown (@0x923b143)>'
+# 17   0x0923b25a: '<unknown (@0x923b25a)>'
+# 18   0x0923c901: '<unknown (@0x923c901)>'
+# 19   0x0923cc76: '<unknown (@0x923cc76)>'
+# 20   0x08d20173: '<unknown (@0x8d20173)>'
+# 21   0x092e4977: '<unknown (@0x92e4977)>'
+# 22   0x0933ec3c: '<unknown (@0x933ec3c)>'
+# 23   0x09341a98: '<unknown (@0x9341a98)>'
+# 24   0x092fde68: '<unknown (@0x92fde68)>'
+# 25   0x092fe175: '<unknown (@0x92fe175)>'
+# 26   0x090ec6c0: '<unknown (@0x90ec6c0)>'
+# 27   0x0879fb79: '<unknown (@0x879fb79)>'
+# 28   0x0863aebb: '<unknown (@0x863aebb)>'
+# End of Stack Trace
+
+
+# Current time Sat Sep 13 20:41:27 2025
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vsim
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = "linuxaloem"
+# Signature = fa4d3e95ccc4dcaa70644b276588aa2d
+# 0    0x083f1a2f: '<unknown (@0x83f1a2f)>'
+# 1    0x083f1d42: '<unknown (@0x83f1d42)>'
+# 2    0x083aba39: '<unknown (@0x83aba39)>'
+# 3    0xf68886e7: '<unknown (@0xf68886e7)>'
+# 4    0x08dcf9a5: '<unknown (@0x8dcf9a5)>'
+# 5    0x0827ffdf: '<unknown (@0x827ffdf)>'
+# 6    0x08280109: '<unknown (@0x8280109)>'
+# 7    0x08281271: '<unknown (@0x8281271)>'
+# 8    0x083aac0a: '<unknown (@0x83aac0a)>'
+# 9    0x083f1240: '<unknown (@0x83f1240)>'
+# 10   0x083f1efb: '<unknown (@0x83f1efb)>'
+# 11   0x083f212b: '<unknown (@0x83f212b)>'
+# 12   0x08402ad8: '<unknown (@0x8402ad8)>'
+# 13   0x08403138: '<unknown (@0x8403138)>'
+# 14   0x08408d40: '<unknown (@0x8408d40)>'
+# 15   0x083aba39: '<unknown (@0x83aba39)>'
+# 16   0xf68a0f47: 'bugSoftmax32.sv:115'
+# 17   0x08dcf9a5: '<unknown (@0x8dcf9a5)>'
+# 18   0x08131d92: '<unknown (@0x8131d92)>'
+# 19   0x082b8656: '<unknown (@0x82b8656)>'
+# 20   0x087d108a: '<unknown (@0x87d108a)>'
+# 21   0x087d648c: '<unknown (@0x87d648c)>'
+# 22   0x087d80a7: '<unknown (@0x87d80a7)>'
+# 23   0x08a9a3b9: '<unknown (@0x8a9a3b9)>'
+# 24   0x092365cb: '<unknown (@0x92365cb)>'
+# 25   0x09235bba: '<unknown (@0x9235bba)>'
+# 26   0x0923b143: '<unknown (@0x923b143)>'
+# 27   0x0923b25a: '<unknown (@0x923b25a)>'
+# 28   0x0923c901: '<unknown (@0x923c901)>'
+# 29   0x0923cc76: '<unknown (@0x923cc76)>'
+# 30   0x08d20173: '<unknown (@0x8d20173)>'
+# 31   0x092e4977: '<unknown (@0x92e4977)>'
+# 32   0x0933ec3c: '<unknown (@0x933ec3c)>'
+# 33   0x09341a98: '<unknown (@0x9341a98)>'
+# 34   0x092fde68: '<unknown (@0x92fde68)>'
+# 35   0x092fe175: '<unknown (@0x92fe175)>'
+# 36   0x090ec6c0: '<unknown (@0x90ec6c0)>'
+# 37   0x0879fb79: '<unknown (@0x879fb79)>'
+# 38   0x0863aebb: '<unknown (@0x863aebb)>'
+# End of Stack Trace
+
+
+# Current time Sat Sep 13 20:43:37 2025
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vsim
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = "linuxaloem"
+# Signature = fa4d3e95ccc4dcaa70644b276588aa2d
+# 0    0x083f1a9a: '<unknown (@0x83f1a9a)>'
+# 1    0x083f3095: '<unknown (@0x83f3095)>'
+# 2    0x08402a4e: '<unknown (@0x8402a4e)>'
+# 3    0x08403138: '<unknown (@0x8403138)>'
+# 4    0x08408d40: '<unknown (@0x8408d40)>'
+# 5    0x083aba39: '<unknown (@0x83aba39)>'
+# 6    0xf68a0f77: 'bugSoftmax32.sv:115'
+# 7    0x08dcf9a5: '<unknown (@0x8dcf9a5)>'
+# 8    0x08131d92: '<unknown (@0x8131d92)>'
+# 9    0x082b8656: '<unknown (@0x82b8656)>'
+# 10   0x087d108a: '<unknown (@0x87d108a)>'
+# 11   0x087d648c: '<unknown (@0x87d648c)>'
+# 12   0x087d80a7: '<unknown (@0x87d80a7)>'
+# 13   0x08a9a3b9: '<unknown (@0x8a9a3b9)>'
+# 14   0x092365cb: '<unknown (@0x92365cb)>'
+# 15   0x09235bba: '<unknown (@0x9235bba)>'
+# 16   0x0923b143: '<unknown (@0x923b143)>'
+# 17   0x0923b25a: '<unknown (@0x923b25a)>'
+# 18   0x0923c901: '<unknown (@0x923c901)>'
+# 19   0x0923cc76: '<unknown (@0x923cc76)>'
+# 20   0x08d20173: '<unknown (@0x8d20173)>'
+# 21   0x092e4977: '<unknown (@0x92e4977)>'
+# 22   0x0933ec3c: '<unknown (@0x933ec3c)>'
+# 23   0x09341a98: '<unknown (@0x9341a98)>'
+# 24   0x092fde68: '<unknown (@0x92fde68)>'
+# 25   0x092fe175: '<unknown (@0x92fe175)>'
+# 26   0x090ec6c0: '<unknown (@0x90ec6c0)>'
+# 27   0x0879fb79: '<unknown (@0x879fb79)>'
+# 28   0x0863aebb: '<unknown (@0x863aebb)>'
+# End of Stack Trace
+
+

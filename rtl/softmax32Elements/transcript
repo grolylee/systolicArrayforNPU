@@ -1,0 +1,57 @@
+# vsim -c -do "run -all" tb_bugSoftmax 
+# Start time: 17:21:22 on Sep 16,2025
+# Loading sv_std.std
+# Loading work.tb_bugSoftmax
+# Loading work.bugSoftmax32
+# Loading work.maxFinder
+# Loading work.subtractorHS
+# Loading work.expCalculatorVec
+# Loading work.sumFinder32
+# Loading work.reciprocalNewtonCalcUnsigned
+# Loading work.expCalculator
+# Loading work.multiplierDivisionUnsigned
+# run -all
+# >>> Input accepted at t=35000, row=0, vals={-10706,-734,4779,1892} (real=-0.653,-0.045,0.292,0.115)
+# [Cycle=1 | Time=45000] INPUT -> data='{1892, 4779, -734, -10706}
+# >>> Input accepted at t=45000, row=1, vals={-1290,15993,-4327,1728} (real=-0.079,0.976,-0.264,0.105)
+# [Cycle=2 | Time=55000] INPUT -> data='{1728, -4327, 15993, -1290}
+# >>> Input accepted at t=55000, row=2, vals={4060,7536,-4881,-11521} (real=0.248,0.460,-0.298,-0.703)
+# [Cycle=3 | Time=65000] INPUT -> data='{-11521, -4881, 7536, 4060}
+# [Cycle=3 | Time=65000] STAGE1 MaxFinder -> maxVal=4779
+# [Cycle=4 | Time=75000] STAGE1 MaxFinder -> maxVal=15993
+# [Cycle=5 | Time=85000] STAGE1 MaxFinder -> maxVal=7536
+# [Cycle=7 | Time=105000] STAGE2 Subtractor -> sub_out='{-722, 0, -1379, -3872}
+# [Cycle=8 | Time=115000] STAGE2 Subtractor -> sub_out='{-3567, -5080, 0, -4321}
+# [Cycle=9 | Time=125000] STAGE2 Subtractor -> sub_out='{-4765, -3105, 0, -869}
+# [Cycle=11 | Time=145000] STAGE3 ExpCalc -> exp_data='{3440, 0, 4096, 1594}
+# [Cycle=12 | Time=155000] STAGE3 ExpCalc -> exp_data='{1714, 1186, 4096, 1429}
+# [Cycle=13 | Time=165000] STAGE3 ExpCalc -> exp_data='{1282, 1919, 4096, 3318}
+# [Cycle=16 | Time=195000] STAGE4 SumFinder -> sumExp=x
+# [Cycle=17 | Time=205000] STAGE4 SumFinder -> sumExp=x
+# [Cycle=18 | Time=215000] STAGE4 SumFinder -> sumExp=x
+# [Cycle=21 | Time=245000] STAGE5 Reciprocal -> recipVal=x
+# [Cycle=21 | Time=245000] STAGE6 Multiply -> o_data='{x, x, x, x}
+# <<< Output received at t=245000, row=0
+#    o_data[0]=x (real=0.000000)
+#    o_data[1]=x (real=0.000000)
+#    o_data[2]=x (real=0.000000)
+#    o_data[3]=x (real=0.000000)
+# [Cycle=22 | Time=255000] STAGE5 Reciprocal -> recipVal=x
+# [Cycle=22 | Time=255000] STAGE6 Multiply -> o_data='{x, x, x, x}
+# <<< Output received at t=255000, row=1
+#    o_data[0]=x (real=0.000000)
+#    o_data[1]=x (real=0.000000)
+#    o_data[2]=x (real=0.000000)
+#    o_data[3]=x (real=0.000000)
+# [Cycle=23 | Time=265000] STAGE5 Reciprocal -> recipVal=x
+# [Cycle=23 | Time=265000] STAGE6 Multiply -> o_data='{x, x, x, x}
+# <<< Output received at t=265000, row=2
+#    o_data[0]=x (real=0.000000)
+#    o_data[1]=x (real=0.000000)
+#    o_data[2]=x (real=0.000000)
+#    o_data[3]=x (real=0.000000)
+# Done test after 3 outputs at t=265000
+# ** Note: $finish    : tb_bugSoftmax.sv(299)
+#    Time: 265 ns  Iteration: 2  Instance: /tb_bugSoftmax
+# End time: 17:21:23 on Sep 16,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
